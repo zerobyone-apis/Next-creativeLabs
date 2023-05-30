@@ -1,6 +1,6 @@
 import { IconCheck } from '@tabler/icons-react';
 import { CallToAction, PricingProps } from '~/shared/types';
-import CTA from '../common/CTA';
+
 import HeaderWidget from '../common/HeaderWidget';
 
 const Pricing = ({ header, prices }: PricingProps) => (

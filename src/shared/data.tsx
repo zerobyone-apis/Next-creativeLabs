@@ -626,12 +626,12 @@ export const featuresData3: FeaturesProps = {
 // Content data
 export const contentData: ContentProps = {
   header: {
-    title: 'Aliquip definiebas ad est',
-    subtitle: 'Quando cetero his ne, eum admodum sapientem ut',
+    title: 'CreativeLabs',
+    subtitle: 'description',
     highlight: 'Content',
   },
   content:
-    'Ne dicta praesent ocurreret has, diam theophrastus at pro. Eos etiam regione ut, persius eripuit quo id. Sit te euismod tacimates.',
+    'CreativeLabs content ',
   items: [
     {
       title: 'Per ei quaeque sensibus',

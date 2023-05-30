@@ -1,5 +1,4 @@
 import { CallToActionProps, CallToAction } from '~/shared/types';
-import CTA from '../common/CTA';
 
 const CallToAction = (props: { data: CallToActionProps }) => {
   const { title, subtitle, callToAction } = props.data;
@@ -18,7 +17,6 @@ const CallToAction = (props: { data: CallToActionProps }) => {
             {subtitle && <p className="text-xl text-gray-600 dark:text-slate-400">{subtitle}</p>}
             {text && href && (
               <div className="mt-6 sm:mx-auto sm:w-fit">
-                <CTA data={callToAction as CallToAction} />
               </div>
             )}
           </div>
