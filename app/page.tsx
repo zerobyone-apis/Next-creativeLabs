@@ -15,7 +15,6 @@ import {
   heroData,
   socialProofData,
 } from '~/shared/data';
-import Contact from '~/components/widgets/Contact';
 
 export const metadata: Metadata = {
   title: SITE.title,
@@ -28,10 +27,7 @@ export default function Page() {
       <Content {...contentData} />
       
   
-     {/*  <FAQs2 {...faqsData2} />
-      
-   
-     */}
+
     </>
   );
 }
