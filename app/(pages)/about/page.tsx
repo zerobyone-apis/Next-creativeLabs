@@ -14,7 +14,7 @@ const Page = () => {
   return (
     <>
       <Hero2 data={hero2Data} />
-      <Stats {...statsData} />
+     
       <Features4 {...featuresData3} />
       <FAQs {...faqsData} />
     </>

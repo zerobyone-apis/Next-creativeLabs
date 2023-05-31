@@ -634,7 +634,7 @@ export const contentData: ContentProps = {
     'CreativeLabs content ',
   items: [
     {
-      title: 'Per ei quaeque sensibus',
+      title: 'Servicion de desarollo',
       description:
         'Ex usu illum iudico molestie. Pro ne agam facete mediocritatem, ridens labore facete mea ei. Pro id apeirian dignissim.',
     },
